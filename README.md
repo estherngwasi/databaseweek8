@@ -1,4 +1,4 @@
-# 📋 Clinic Booking & Patient Management System – README
+# 📋 Clinic Booking & Patient Management System 
 ## 🏥 Project Overview
 This project is a MySQL-based Clinic Booking and Patient Management System. It is designed to help clinics manage departments, doctors, patients, appointments, prescriptions, medications, and doctor ratings. The system supports efficient scheduling, tracking of prescriptions, and collection of patient feedback.
 ## 🧱 Database Schema
