@@ -36,7 +36,6 @@ After successful execution, expand the Schemas tab to view the newly created cli
 
 Below is the ERD for the Clinic Booking & Patient Management System:
 
-![Clinic ERD](https://github.com/estherngwasi/databaseweek8/raw/main/clinicdb%20ERD.png)
 
 
 
