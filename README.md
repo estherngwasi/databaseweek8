@@ -35,7 +35,7 @@ After successful execution, expand the Schemas tab to view the newly created cli
 ## 📊 Entity Relationship Diagram (ERD)
 
 Below is the ERD for the Clinic Booking & Patient Management System:
-
+![Clinic Database ERD](https://github.com/estherngwasi/databaseweek8/blob/main/clinicdb%20ERD.PNG?raw=true)
 
 
 
