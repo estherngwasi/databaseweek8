@@ -32,6 +32,11 @@ Click the lightning bolt icon or press Ctrl + Shift + Enter to execute the scrip
 
 After successful execution, expand the Schemas tab to view the newly created clinic_db with all tables.
 
+## 📊 Entity Relationship Diagram (ERD)
+
+Below is the ERD for the Clinic Booking & Patient Management System:
+
+![Clinic ERD](https://github.com/estherngwasi/databaseweek8/raw/main/clinicdb%20ERD.png)
 
 
 
