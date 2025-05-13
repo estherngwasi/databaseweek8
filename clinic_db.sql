@@ -1,5 +1,5 @@
 -- CREATING CLINIC DATABASE 
--- CREATE DATABASE clinic_db;
+CREATE DATABASE clinic_db;
 
 USE clinic_db; 
 
